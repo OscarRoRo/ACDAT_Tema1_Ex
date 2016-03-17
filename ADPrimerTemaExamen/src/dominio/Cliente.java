@@ -1,5 +1,5 @@
 package dominio;
-
+// No me gusta
 public class Cliente {
 
 	
